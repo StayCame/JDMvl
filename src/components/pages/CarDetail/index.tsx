@@ -402,7 +402,7 @@ const CarDetail = () => {
   // Данные для SEO
   const pageTitle = `${car.name} — ${car.year} год, ${car.grade} | JDMVL`;
   const pageDescription = `${car.name}, ${car.year} года, оценка ${car.grade}. Пробег ${car.specs.find(s => s.label === 'Пробег')?.value || 'не указан'}, двигатель ${car.specs.find(s => s.label === 'Двигатель')?.value || ''}. Купить авто из Японии под ключ во Владивостоке.`;
-  const canonicalUrl = `https://staycame.github.io/gletabrow-/catalog/${car.id}`;
+  const canonicalUrl = `https://staycame.github.io/JDMvl/catalog/${car.id}`;
 
   return (
     <>

@@ -381,7 +381,7 @@ const Parts = () => {
         '@type': 'ItemList',
         'name': 'Автозапчасти из Японии — каталог JDMVL',
         'description': 'Оригинальные и контрактные автозапчасти из Японии во Владивостоке.',
-        'url': 'https://staycame.github.io/gletabrow-/parts',
+        'url': 'https://staycame.github.io/JDMvl/parts',
         'numberOfItems': MOCK_PARTS.length,
         'itemListElement': MOCK_PARTS.map((part, index) => ({
             '@type': 'ListItem',
@@ -416,7 +416,7 @@ const Parts = () => {
                     name="description"
                     content="Оригинальные и контрактные автозапчасти из Японии во Владивостоке. Поиск по VIN, артикулу и названию."
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/parts" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/parts" />
 
                 {/* Open Graph */}
                 <meta property="og:title" content="Автозапчасти из Японии — каталог | JDMVL" />
@@ -425,8 +425,8 @@ const Parts = () => {
                     content="Оригинальные и контрактные автозапчасти из Японии во Владивостоке. Поиск по VIN, артикулу и названию."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/parts" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/parts" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
 
                 {/* Микроразметка Schema.org */}
                 <script type="application/ld+json">

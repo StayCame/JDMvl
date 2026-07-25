@@ -273,7 +273,7 @@ const Services = () => {
                 'provider': {
                     '@type': 'Organization',
                     'name': 'JDMVL',
-                    'url': 'https://staycame.github.io/gletabrow-/'
+                    'url': 'https://staycame.github.io/JDMvl/'
                 },
                 'areaServed': 'RU',
                 'hasOfferCatalog': {
@@ -312,7 +312,7 @@ const Services = () => {
                     name="description"
                     content="Полный спектр услуг по привозу автомобилей с аукционов Японии: подбор, проверка, доставка морем, таможенное оформление, получение СБКТС и ЭПТС."
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/services" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/services" />
 
                 {/* Open Graph */}
                 <meta property="og:title" content="Услуги и стоимость — подбор, доставка и растаможка авто из Японии | JDMVL" />
@@ -321,8 +321,8 @@ const Services = () => {
                     content="Полный спектр услуг по привозу автомобилей с аукционов Японии: подбор, проверка, доставка морем, таможенное оформление, получение СБКТС и ЭПТС."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/services" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/services" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
 
                 {/* JSON-LD Schema.org */}
                 <script type="application/ld+json">

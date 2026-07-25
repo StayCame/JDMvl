@@ -139,7 +139,7 @@ const HowWeWork = () => {
                     name="description"
                     content="От выбора авто до получения ключей. Прозрачный процесс импорта из Японии."
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/how-we-work" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/how-we-work" />
 
                 {/* Open Graph */}
                 <meta property="og:title" content="Как мы работаем — этапы импорта авто | JDMVL" />
@@ -148,8 +148,8 @@ const HowWeWork = () => {
                     content="От выбора авто до получения ключей. Прозрачный процесс импорта из Японии."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/how-we-work" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/how-we-work" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
 
                 {/* JSON-LD Schema.org */}
                 <script type="application/ld+json">

@@ -150,15 +150,15 @@ const Calculator = () => {
                     name="keywords"
                     content="калькулятор авто, стоимость авто из Японии, доставка авто, растаможка, пошлины, цена под ключ"
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/calculator" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/calculator" />
                 <meta property="og:title" content="Калькулятор стоимости авто — JDMVL" />
                 <meta
                     property="og:description"
                     content="Рассчитайте полную стоимость автомобиля с японского аукциона под ключ: цена в йенах, доставка, пошлины, сборы."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/calculator" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/calculator" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
                 <meta property="og:locale" content="ru_RU" />
 
                 {/* Микроразметка для калькулятора (веб-приложение) */}
@@ -169,7 +169,7 @@ const Calculator = () => {
               "@type": "WebApplication",
               "name": "Калькулятор стоимости авто из Японии",
               "description": "Расчёт полной стоимости автомобиля с японского аукциона под ключ: цена в йенах, доставка морем или авиа, пошлины и сборы.",
-              "url": "https://staycame.github.io/gletabrow-/calculator",
+              "url": "https://staycame.github.io/JDMvl/calculator",
               "applicationCategory": "BusinessApplication",
               "operatingSystem": "All",
               "offers": {

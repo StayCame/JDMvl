@@ -149,7 +149,7 @@ const ProcessMap = () => {
                     name="description"
                     content="Наглядная временная шкала и сроки всех этапов привоза автомобиля из Японии: от подбора и аукциона до таможни и получения."
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/process-map" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/process-map" />
 
                 {/* Open Graph */}
                 <meta property="og:title" content="Карта процесса — этапы и сроки покупки авто из Японии | JDMVL" />
@@ -158,8 +158,8 @@ const ProcessMap = () => {
                     content="Наглядная временная шкала и сроки всех этапов привоза автомобиля из Японии: от подбора и аукциона до таможни и получения."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/process-map" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/process-map" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
 
                 {/* JSON-LD Schema.org */}
                 <script type="application/ld+json">

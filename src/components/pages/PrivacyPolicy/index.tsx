@@ -77,7 +77,7 @@ const PrivacyPolicy = () => {
         '@type': 'WebPage',
         'name': 'Политика конфиденциальности — JDMVL',
         'description': 'Информация о том, как компания JDMVL собирает, обрабатывает и защищает персональные данные пользователей.',
-        'url': 'https://staycame.github.io/gletabrow-/privacy-policy'
+        'url': 'https://staycame.github.io/JDMvl/privacy-policy'
     };
 
     return (
@@ -89,7 +89,7 @@ const PrivacyPolicy = () => {
                     name="description"
                     content="Информация о том, как компания JDMVL собирает, обрабатывает и защищает персональные данные пользователей."
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/privacy-policy" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/privacy-policy" />
 
                 {/* Open Graph */}
                 <meta property="og:title" content="Политика конфиденциальности — защита данных | JDMVL" />
@@ -98,8 +98,8 @@ const PrivacyPolicy = () => {
                     content="Информация о том, как компания JDMVL собирает, обрабатывает и защищает персональные данные пользователей."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/privacy-policy" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/privacy-policy" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
 
                 {/* JSON-LD Schema.org */}
                 <script type="application/ld+json">

@@ -77,7 +77,7 @@ const TermsOfService = () => {
         '@type': 'WebPage',
         'name': 'Пользовательское соглашение — JDMVL',
         'description': 'Пользовательское соглашение и условия использования сайта и сервисов компании JDMVL.',
-        'url': 'https://staycame.github.io/gletabrow-/terms-of-service'
+        'url': 'https://staycame.github.io/JDMvl/terms-of-service'
     };
 
     return (
@@ -89,7 +89,7 @@ const TermsOfService = () => {
                     name="description"
                     content="Пользовательское соглашение и условия использования сервиса JDMVL: правила заказа, права и обязанности сторон, ответственность и интеллектуальная собственность."
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/terms-of-service" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/terms-of-service" />
 
                 {/* Open Graph */}
                 <meta property="og:title" content="Пользовательское соглашение — условия использования | JDMVL" />
@@ -98,8 +98,8 @@ const TermsOfService = () => {
                     content="Пользовательское соглашение и условия использования сервиса JDMVL: правила заказа, права и обязанности сторон, ответственность и интеллектуальная собственность."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/terms-of-service" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/terms-of-service" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
 
                 {/* JSON-LD Schema.org */}
                 <script type="application/ld+json">

@@ -101,7 +101,7 @@ const Pricing = () => {
         'provider': {
             '@type': 'Organization',
             'name': 'JDMVL',
-            'url': 'https://staycame.github.io/gletabrow-/'
+            'url': 'https://staycame.github.io/JDMvl/'
         },
         'areaServed': 'RU',
         'hasOfferCatalog': {
@@ -148,7 +148,7 @@ const Pricing = () => {
                     name="description"
                     content="Из чего складывается стоимость автомобиля под ключ. Прозрачный расчёт затрат, аукционная стоимость, пошлины, доставка и комиссия."
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/pricing" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/pricing" />
 
                 {/* Open Graph */}
                 <meta property="og:title" content="Прозрачность цен — расчёт стоимости авто из Японии | JDMVL" />
@@ -157,8 +157,8 @@ const Pricing = () => {
                     content="Из чего складывается стоимость автомобиля под ключ. Прозрачный расчёт затрат, аукционная стоимость, пошлины, доставка и комиссия."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/pricing" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/pricing" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
 
                 {/* JSON-LD Schema.org */}
                 <script type="application/ld+json">

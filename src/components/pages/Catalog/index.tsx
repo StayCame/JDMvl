@@ -392,7 +392,7 @@ const Catalog = () => {
     // SEO-данные
     const pageTitle = 'Каталог автомобилей с японских аукционов | JDMVL';
     const pageDescription = 'Автомобили с японских аукционов во Владивостоке. Toyota, Nissan, Lexus, Subaru и другие JDM-модели. Доставка под ключ, честные цены.';
-    const canonicalUrl = 'https://staycame.github.io/gletabrow-/catalog';
+    const canonicalUrl = 'https://staycame.github.io/JDMvl/catalog';
 
     return (
         <>
@@ -405,7 +405,7 @@ const Catalog = () => {
                 <meta property="og:description" content={pageDescription} />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content={canonicalUrl} />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
                 <meta property="og:locale" content="ru_RU" />
 
                 {/* Микроразметка ItemList для списка автомобилей */}
@@ -423,7 +423,7 @@ const Catalog = () => {
                                     {
                                         "@type": "ListItem",
                                         "position": ${index + 1},
-                                        "url": "https://staycame.github.io/gletabrow-/catalog/${car.id}",
+                                        "url": "https://staycame.github.io/JDMvl/catalog/${car.id}",
                                         "name": "${car.name} (${car.year})"
                                     }
                                 `).join(',')}

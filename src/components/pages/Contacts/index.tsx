@@ -278,15 +278,15 @@ const Contacts = () => {
           name="keywords"
           content="контакты, телефон, адрес, Владивосток, импорт авто, японские авто, JDM, связь"
         />
-        <link rel="canonical" href="https://staycame.github.io/gletabrow-/contacts" />
+        <link rel="canonical" href="https://staycame.github.io/JDMvl/contacts" />
         <meta property="og:title" content="Контакты — JDMVL" />
         <meta
           property="og:description"
           content="Свяжитесь с нами по телефону, email или через мессенджеры. Адрес во Владивостоке. Консультация по импорту авто из Японии."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://staycame.github.io/gletabrow-/contacts" />
-        <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+        <meta property="og:url" content="https://staycame.github.io/JDMvl/contacts" />
+        <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
         <meta property="og:locale" content="ru_RU" />
 
         {/* Микроразметка LocalBusiness */}
@@ -297,7 +297,7 @@ const Contacts = () => {
               "@type": "LocalBusiness",
               "name": "JDMVL",
               "description": "Прямой импорт автомобилей и запчастей из Японии во Владивосток",
-              "url": "https://staycame.github.io/gletabrow-/",
+              "url": "https://staycame.github.io/JDMvl/",
               "telephone": "+7-914-666-55-33",
               "email": "info@jdmvl.ru",
               "address": {
@@ -322,7 +322,7 @@ const Contacts = () => {
                   "closes": "18:00"
                 }
               ],
-              "image": "https://staycame.github.io/gletabrow-/og-image.jpg",
+              "image": "https://staycame.github.io/JDMvl/og-image.jpg",
               "sameAs": [
                 "https://t.me/ваш_телеграм",
                 "https://wa.me/79146665533",

@@ -211,12 +211,12 @@ const About = () => {
                 <title>О компании — JDMVL | Японский импорт авто и запчастей</title>
                 <meta name="description" content="Компания JDMVL — прямой импорт автомобилей и запчастей из Японии. Честная цена, полное сопровождение, доставка под ключ во Владивосток." />
                 <meta name="keywords" content="импорт авто из Японии, JDM, автоподбор, доставка авто, таможня, СБКТС, ЭПТС, Владивосток" />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/about" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/about" />
                 <meta property="og:title" content="О компании — JDMVL | Японский импорт авто и запчастей" />
                 <meta property="og:description" content="Прямой импорт авто и запчастей из Японии. Полное сопровождение, честные цены, доставка под ключ во Владивосток." />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/about" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/about" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
                 <meta property="og:locale" content="ru_RU" />
 
                 {/* Микроразметка для организации */}
@@ -227,7 +227,7 @@ const About = () => {
               "@type": "Organization",
               "name": "JDMVL",
               "description": "Прямой импорт автомобилей и запчастей из Японии во Владивосток",
-              "url": "https://staycame.github.io/gletabrow-/",
+              "url": "https://staycame.github.io/JDMvl/",
               "telephone": "+7-914-666-55-33",
               "email": "info@jdmvl.ru",
               "address": {

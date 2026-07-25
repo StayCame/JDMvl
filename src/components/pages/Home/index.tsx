@@ -339,8 +339,8 @@ const Home = () => {
     '@type': 'AutoDealer',
     'name': 'JDMVL',
     'description': 'Прямой импорт авто и запчастей из Японии во Владивосток. Доставка под ключ.',
-    'url': 'https://staycame.github.io/gletabrow-/',
-    'logo': 'https://staycame.github.io/gletabrow-/logo.png',
+    'url': 'https://staycame.github.io/JDMvl/',
+    'logo': 'https://staycame.github.io/JDMvl/logo.png',
     'address': {
       '@type': 'PostalAddress',
       'addressLocality': 'Владивосток',
@@ -358,7 +358,7 @@ const Home = () => {
           name="description"
           content="Прямой импорт авто и запчастей из Японии. Доставка под ключ во Владивосток. Честные цены без скрытых комиссий."
         />
-        <link rel="canonical" href="https://staycame.github.io/gletabrow-/" />
+        <link rel="canonical" href="https://staycame.github.io/JDMvl/" />
 
         {/* Open Graph */}
         <meta property="og:title" content="JDMVL — Японский импорт авто и запчастей во Владивостоке" />
@@ -367,8 +367,8 @@ const Home = () => {
           content="Прямой импорт авто и запчастей из Японии. Доставка под ключ во Владивосток."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://staycame.github.io/gletabrow-/" />
-        <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+        <meta property="og:url" content="https://staycame.github.io/JDMvl/" />
+        <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
 
         {/* JSON-LD Schema.org */}
         <script type="application/ld+json">

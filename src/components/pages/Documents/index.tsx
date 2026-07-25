@@ -132,15 +132,15 @@ const Documents = () => {
                     name="keywords"
                     content="документы, договор, оферта, автоподбор, доставка, таможня, конфиденциальность, JDMVL"
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/documents" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/documents" />
                 <meta property="og:title" content="Документы — JDMVL" />
                 <meta
                     property="og:description"
                     content="Скачайте юридические документы: договоры на покупку авто, автоподбор, доставку, таможню, оферту и соглашение о конфиденциальности."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/documents" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/documents" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
                 <meta property="og:locale" content="ru_RU" />
 
                 {/* Микроразметка для страницы с документами (CollectionPage) */}
@@ -151,7 +151,7 @@ const Documents = () => {
               "@type": "CollectionPage",
               "name": "Документы JDMVL",
               "description": "Юридические документы и договоры для скачивания",
-              "url": "https://staycame.github.io/gletabrow-/documents",
+              "url": "https://staycame.github.io/JDMvl/documents",
               "about": {
                 "@type": "Thing",
                 "name": "Юридические документы"

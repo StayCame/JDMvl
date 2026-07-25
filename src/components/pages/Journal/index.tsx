@@ -221,7 +221,7 @@ const Journal = () => {
         '@type': 'Blog',
         'name': 'Журнал JDMVL',
         'description': 'Статьи о JDM-культуре, аукционах, доставке авто из Японии. Полезные гайды и обзоры.',
-        'url': 'https://staycame.github.io/gletabrow-/journal',
+        'url': 'https://staycame.github.io/JDMvl/journal',
         'blogPost': articles.map((article) => ({
             '@type': 'BlogPosting',
             'headline': article.title,
@@ -244,7 +244,7 @@ const Journal = () => {
                     name="description"
                     content="Статьи о JDM-культуре, аукционах, доставке авто из Японии. Полезные гайды и обзоры."
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/journal" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/journal" />
 
                 {/* Open Graph */}
                 <meta property="og:title" content="Журнал JDMVL — статьи об авто из Японии" />
@@ -253,8 +253,8 @@ const Journal = () => {
                     content="Статьи о JDM-культуре, аукционах, доставке авто из Японии. Полезные гайды и обзоры."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/journal" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/journal" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
 
                 {/* JSON-LD Schema.org */}
                 <script type="application/ld+json">

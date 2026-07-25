@@ -158,15 +158,15 @@ const FAQ = () => {
                     name="keywords"
                     content="вопросы, ответы, доставка авто, таможня, СБКТС, ЭПТС, предоплата, JDMVL"
                 />
-                <link rel="canonical" href="https://staycame.github.io/gletabrow-/faq" />
+                <link rel="canonical" href="https://staycame.github.io/JDMvl/faq" />
                 <meta property="og:title" content="Часто задаваемые вопросы — JDMVL" />
                 <meta
                     property="og:description"
                     content="Ответы на главные вопросы о покупке, доставке, таможне и документах. Помощь с СБКТС и ЭПТС."
                 />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://staycame.github.io/gletabrow-/faq" />
-                <meta property="og:image" content="https://staycame.github.io/gletabrow-/og-image.jpg" />
+                <meta property="og:url" content="https://staycame.github.io/JDMvl/faq" />
+                <meta property="og:image" content="https://staycame.github.io/JDMvl/og-image.jpg" />
                 <meta property="og:locale" content="ru_RU" />
 
                 {/* Микроразметка FAQPage */}
