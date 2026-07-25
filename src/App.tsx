@@ -27,7 +27,7 @@ const Contacts = lazy(() => import('./components/pages/Contacts'));
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/JDMvl">
       <Header />
       <main>
         <FloatingButtons />
