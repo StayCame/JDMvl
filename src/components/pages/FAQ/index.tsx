@@ -117,19 +117,6 @@ const FAQ = () => {
     };
 
     // Данные для микроразметки
-    const faqSchema = {
-        "@context": "https://schema.org",
-        "@type": "QAPage",
-        "mainEntity": {
-            "@type": "Question",
-            "name": "Часто задаваемые вопросы о покупке и доставке авто из Японии",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "На этой странице собраны ответы на главные вопросы клиентов."
-            }
-        }
-    };
-
     const questionList = faqs.map((item, idx) => ({
         "@type": "Question",
         "position": idx + 1,
